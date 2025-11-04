@@ -1,0 +1,146 @@
+Data Science – 2 Mark Questions and Answers
+
+1. What is data privacy, and why is it important in data science?
+Data privacy means keeping people’s personal information safe and using it only for the right purpose. It is important in data science because it protects individuals from misuse of their data, builds trust, and ensures that data is handled legally and ethically. [2 marks]
+
+2. State two key principles of the GDPR related to personal data protection.
+Lawfulness, fairness, and transparency – Personal data must be collected and used in a clear, fair, and legal way.
+Data minimization – Only the data that is necessary for a specific purpose should be collected and processed. [2 marks]
+
+3. You have sales data in Excel and social media comments in JSON format. Identify which is structured and which is unstructured.
+Sales data in Excel is structured, while social media comments in JSON are unstructured. [2 marks]
+
+4. A manager wants to compare monthly sales for three products over a year. Which type of chart would be best?
+For comparing monthly sales of three products over a year, a line chart is the most effective visualization. However, a grouped bar chart is also a strong alternative. [2 marks]
+
+5. Which type of visualization is most suitable to show the trend of website visitors over a 12-month period?
+A line chart is most suitable, because it clearly shows trends over time. [2 marks]
+
+6. A dataset has a mean of 50 and a standard deviation of 0. What does this indicate about the data values?
+A standard deviation of 0 means all values are identical, so every data point equals the mean (50 in this case), and there’s no spread or variation in the data. [2 marks]
+
+7. You notice a very low value in your sales data that seems unrealistic. What steps would you take to verify if it’s an outlier?
+Calculate the IQR and check if the value is below Q1 − 1.5×IQR or above Q3 + 1.5×IQR; if it is, it’s considered an outlier. [2 marks]
+
+8. Why is the median often preferred over the mean when a dataset contains outliers?
+The median is better because it shows the middle number and isn’t affected by extremely high or low values. [2 marks]
+
+9. What is data cleaning, and why is it important?
+Data cleaning means removing errors, duplicates, or missing values from data. It ensures accurate analysis and reliable results. [2 marks]
+
+10. What does data visualization help us understand?
+It helps identify patterns, trends, and insights by representing data visually through charts and graphs. [2 marks]
+
+11. What is the difference between qualitative and quantitative data?
+Qualitative data describes categories or qualities, while quantitative data represents numerical values. [2 marks]
+
+12. What is a dataset?
+A dataset is a collection of related data, often organized in rows and columns for analysis. [2 marks]
+
+13. What is correlation in data analysis?
+Correlation measures the strength and direction of a relationship between two variables. [2 marks]
+
+14. What does a high positive correlation mean?
+It means that as one variable increases, the other variable also increases. [2 marks]
+
+15. What is regression analysis used for?
+Regression is used to predict a dependent variable based on one or more independent variables. [2 marks]
+
+16. What is the difference between supervised and unsupervised learning?
+Supervised learning uses labeled data, while unsupervised learning finds patterns in unlabeled data. [2 marks]
+
+17. What is a feature in machine learning?
+A feature is an individual measurable property or characteristic of the data being analyzed. [2 marks]
+
+18. What is a target variable?
+The target variable is the outcome that a model is trying to predict or classify. [2 marks]
+
+19. What is overfitting in machine learning?
+Overfitting happens when a model learns noise and performs well on training data but poorly on new data. [2 marks]
+
+20. What is underfitting?
+Underfitting occurs when a model is too simple to capture the underlying pattern of the data. [2 marks]
+
+21. What is a confusion matrix used for?
+It evaluates classification model performance by comparing predicted vs actual results. [2 marks]
+
+22. What is accuracy in model evaluation?
+Accuracy is the ratio of correctly predicted observations to total observations. [2 marks]
+
+23. What is precision in classification?
+Precision measures how many predicted positives are actually correct. [2 marks]
+
+24. What is recall (sensitivity)?
+Recall measures how many actual positives were correctly identified by the model. [2 marks]
+
+25. What is the purpose of splitting data into training and testing sets?
+It helps assess how well a model performs on unseen data. [2 marks]
+
+26. What is cross-validation?
+Cross-validation tests model performance by dividing data into multiple training and testing subsets. [2 marks]
+
+27. What is normalization in data preprocessing?
+Normalization scales numeric data to a common range to improve model performance. [2 marks]
+
+28. What is a histogram used for?
+A histogram shows the frequency distribution of numerical data. [2 marks]
+
+29. What is the purpose of a box plot?
+It displays data spread, median, quartiles, and potential outliers. [2 marks]
+
+30. What is a scatter plot used for?
+It shows the relationship between two continuous variables. [2 marks]
+
+31. What is data sampling?
+Data sampling is selecting a subset of data from a larger dataset for analysis. [2 marks]
+
+32. What is missing data, and how can it be handled?
+Missing data are gaps in datasets; they can be handled by imputation or removal. [2 marks]
+
+33. What is the purpose of data transformation?
+It converts data into a suitable format for analysis or modeling. [2 marks]
+
+34. What is the mean of a dataset?
+The mean is the average value, found by dividing the sum of all data points by their count. [2 marks]
+
+35. What is variance?
+Variance measures how far data points spread out from the mean. [2 marks]
+
+36. What is the role of data ethics in data science?
+Data ethics ensures that data is collected, analyzed, and used responsibly and fairly. [2 marks]
+
+37. What is the difference between classification and regression?
+Classification predicts categories, while regression predicts continuous values. [2 marks]
+
+38. What is clustering in data science?
+Clustering groups similar data points together without predefined labels. [2 marks]
+
+39. What is the K-means algorithm used for?
+K-means is an unsupervised algorithm used for clustering data into K groups. [2 marks]
+
+40. What is a decision tree?
+A decision tree is a model that splits data into branches to make predictions. [2 marks]
+
+41. What is a random forest?
+Random forest is an ensemble of decision trees that improves accuracy and reduces overfitting. [2 marks]
+
+42. What is the main use of Python in data science?
+Python is used for data analysis, visualization, and machine learning due to its rich libraries. [2 marks]
+
+43. Name two Python libraries used for data visualization.
+Matplotlib and Seaborn are commonly used for data visualization. [2 marks]
+
+44. What is Pandas used for?
+Pandas is used for data manipulation and analysis in tabular form. [2 marks]
+
+45. What is NumPy used for?
+NumPy provides support for numerical computing and array operations. [2 marks]
+
+46. What is SQL used for in data science?
+SQL is used to store, retrieve, and manipulate data in databases. [2 marks]
+
+47. What is Big Data?
+Big Data refers to extremely large datasets that cannot be processed using traditional methods. [2 marks]
+
+48. What is cloud computing in data science?
+Cloud computing provides scalable storage and computing power for data analysis and machine learning. [2 marks]
