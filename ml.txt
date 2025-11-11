@@ -1,0 +1,120 @@
+Machine learning-> Ml is a subset of ai that allows 
+computer to
+learn from and make decision based on data.
+
+
+
+iq cgpa placement-> dependent column / output column
+8  8.5  yes
+4  8    yes
+7 4.4   no
+if our dependent column/ output column data is categorial
+then we will call classification.
+
+ 6 8.9 
+
+The email is spam or not 
+
+if text=='super':
+   print('spam')
+elif text=='exclusive':
+   print('spam')
+elif text=='super excellent offer':
+    print('spam')
+
+text spam or not
+ 1000 data
+
+
+
+Ml -> supervised ml and unsupervised ml
+
+iq cgpa placement-> dependent column / output column
+8  8.5  yes
+4  8    yes
+7 4.4   no
+
+in supervised ml algo there must be a output column
+
+House price prediction
+
+Location Size Price 
+hyd       3bhk  80000 Regression problem
+
+when we have numerical data in our output column that time 
+we will call that is part of regression.
+
+when we have a output column that time we will tell that it is a 
+
+supervised ml 
+
+Text             review
+the class is good  positive
+worst              negative
+
+unsupervised ml -> in that unsupervised there is no output column. 
+
+based on that input data it will create a group
+
+
+
+iq cgpa 
+
+3   8.9
+8   3.6
+8   8.9
+3   3.8
+
+classification and Regression
+
+
+Text             review
+the class is good  positive 1
+worst              negative 0
+if in your output coulumn categorical data/ text data/ discreate 
+category is there then it will be a classification
+
+
+
+1. Spam email detection -> c
+2.Predict a patient diabetic or non diabatic -> c
+
+3.Student performance score -> r
+
+4. Flight price-> r
+
+5.Stock price forecasting -> r 
+
+6. Image Recognition -> cat or dog c
+
+7.Sentiment analysis c
+
+8. Cricket score prediction r
+
+9. The cricket match will happen or not based on weather c
+
+10. Vegitable classification . c
+
+
+Type of ml
+classification and regression
+in that classification if two claases is there that means it will be binary classification
+if more than two classes are there it will be multiclass classification
+
+Regression -> Linear regression , Lasso , Ridge
+
+Classification -> Logistic Regression , Naive bayes 
+
+we have some algorithm that is for both classification and regressiom
+Decision tree
+Support vector machine
+Random forest
+KNN
+
+
+Linear Regression 
+
+
+
+
+
