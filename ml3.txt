@@ -1,0 +1,106 @@
+Performance score of Linear Regression
+
+1. R-squared
+2.Adjusted R squared
+
+if the score towards means model performance is good
+.
+
+R squared 
+
+https://miro.medium.com/v2/resize:fit:1100/format:webp/1*_mVvAFVEGinHlijmmeWwzg.png
+
+Student cgpa  salary
+9              6
+8              7
+10             5
+
+like the cgpa is 5.6
+9+8+10/3     salary 4
+
+7 error 7-4=3
+
+1-small/big value
+
+1-0.5/0.8
+0.37
+37%
+1-0.2/0.9=1-.22=.77
+77%
+
+https://miro.medium.com/v2/resize:fit:640/format:webp/1*kW2xSxbIb7laGRoEcgx8vg.jpeg
+
+i want to predict a house price
+
+size of house no of bedroom location price
+
+if you are using r squared and all are feature is
+relavent than there is no problem
+
+Gender age Degree size of house no of bedroom location price
+
+if you want to calculate the model performance using the R squared
+it will not give accurate result
+
+r square 76
+80%
+
+Adjusted r square it will balance . it will give exact 
+model performance.'
+
+
+
+First - Data sets
+2nd - Data Table
+3rd - Data Info - Check Data Details
+4th - Select columns
+5th - Linear Regression
+6th - Predictions
+
+Logistic Regression 
+-Classification(Target variable should be categorical)
+- Target data
+Assumtion of logistic Regression
+- the target should be binary
+- No multicolinearity
+- data should be lineary separable
+
+age Insured
+20   0
+22   0
+24   0
+26   0
+
+32   1
+40   1
+60   1
+65   1
+72   1
+80   1
+85   1
+92   1 
+
+
+
+1/1+e^-z
+
+
+z=mx+c
+
+marks result z=mx+c sigmoid=1/1+e^-z  threshold (>0.5)
+2      0     -20     0.3                0
+3      0     -10     0.4                0 
+4      0     -5      0.45               0
+7      1      10     0.6                1
+
+8      1      20     0.8                1
+9      1      30     0.9                1
+
+
+https://en.wikipedia.org/wiki/Sigmoid_function#/media/File:Logistic-curve.svg
+
+
+odds ratio= odds of success / odds of failure
+
+p(A)/1-P(A)
+log(odds)=log(p(A)/1-p(A))
