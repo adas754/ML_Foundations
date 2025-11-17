@@ -1,0 +1,78 @@
+I want to model performance of classifier
+
+How i will check
+
+https://glassboxmedicine.com/wp-content/uploads/2019/02/confusion-matrix.png?w=816
+
+
+Precesion TP/TP+FP
+
+RECALL= TP/TP+FN
+
+ACCURACY=TP+TN/TP+TN+FP+FN
+
+F1SCORE=2*PRE*RECALL/PRE+RECALL
+
+
+Burnt incident happend in one shoping mall
+
+owner will shell in very less price 
+
+who will be benfited , customer will be benifited.
+
+Tpr=TP/TP+FN
+
+FPR=FP/FP+TN
+[0,0.2,0.4,0.6,0.8]
+
+YACT YPRED  Y(0) Y(0.2) Y(0.4)
+1  0.8     1      1      1
+0  0.9     1      1      1
+1  0.4     1      1      0
+1  0.3     1      1      0
+0  0.2     1      0      0
+1  0.7     1      1      1
+
+THRESHOLD=0
+TPR=TP/TP+FN     4/4+0=1
+FPR=FP/FP+TN     2/2+0=1
+https://media.geeksforgeeks.org/wp-content/uploads/20250206150241961244/AUC-ROC-Curve.webp
+
+Roc(Reciver operating characteristic)
+
+Auc -> area under the curve
+
+
+https://miro.medium.com/v2/resize:fit:1400/format:webp/0*CNP-QwDezhGVgdlr
+
+
+
+
+
+Decision Tree Classifier 
+
+
+
+
+
+3y/2n
+
+-3/5 log2 3/5 -2/5 log2 2/5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
