@@ -1,0 +1,122 @@
+SVM Classifier
+
+https://www.researchgate.net/publication/348958068/figure/fig5/AS:986604885790750@1612236343733/SVM-graph-svm-accessed-April-19-2020.ppm
+
+Hyperplane
+
+Marginal plane 
+
+support vector 
+
+Hard Marginal plane -> There is no any kind of missclassification.
+
+Soft marginal plane -> The missclassifcation will be there.
+
+
+The distance between two marginal plane should be high
+
+we can classify our data. 
+
+
+y=mx+c
+
+w1x1+w2x2+b=0
+
+
+wTx1+b=1
+
+wTx2+b=-1
+
+-  -  +
+--------------------------
+wT(x1-x2)=2  
+
+we can write in following way
+w-> Magnititude
+
+wT(x1-x2)/|w|=2/|w|
+
+max (w,b) 2/|w|  => will calculate distance between marginal plane 
+
+The 2/W basically represent separation between two class 
+
+it will help to->
+
+1. Increase Robustness -> A largar margin makes the model less sensetive to noise and outlier
+
+2. Improve generalization-> A larger marginal plane reduces overfiting and improves model  ability to generallize the data
+
+3. Enhance classification->  by maximizing  margin svm aims to find the optimal decision boundary that accurately separate classes.
+
+for all accurate data point yi*(WTxi+b)>=1
+
+constraint
+yi ​ is the class label (+1 or -1) for each training instance.
+xi is the feature vector for the i-th training instance.
+
+
+cost function
+-
+minimize (w,b) W/2+ci summation of i=1 to w ζi
+
+ci=>How many point we want to avoid misclassification.
+
+ζ -> Summation of the distance of the incorrect data point from the marginal plane
+i
+​
+ 
+ SVM kernal -> SVM kernal are function that tranform the original data into a higher dimentional space , allowing svm to leran non linear decision 
+
+boundary
+
+
+1, linear kernal- suitable for linearly separable data
+
+2. polynomial kernal-> non linear with polynomial relationship
+
+3. RBF-> Suitable for non linear dta with gaussian distribution
+
+4.Sigmoid-> similar to logistic Regression
+
+
+
+
+KMeans Algoritm -> 
+
+1. We have to decide k cluster
+
+if k=3 that means you have created three groups
+
+2. Intialze centrioid
+
+3. Assign cluster
+
+4. Move centriod
+
+5. Finish
+
+
+How we will find the k value 
+
+https://media.geeksforgeeks.org/wp-content/uploads/20241028173908396970/Elbow-Method.png
+
+
+
+
+
+
+wcss1> wcss2>wcss3>wcss4......
+
+
+
+How to validate the unsupervised algo including k means 
+
+
+
+
+https://en.wikipedia.org/wiki/Silhouette_(clustering)
+
+
+
+
+
