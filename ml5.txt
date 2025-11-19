@@ -1,0 +1,111 @@
+Purity-> Node purly splited or not
+Feature selection( from where we will start the spliting)
+Purity -> Entropy and  Gini Index
+Feature selection-> Information gain
+
+9 yes  and 5 no
+
+Entropy=-p+log2p+ -p-log2p-
+-9/14 log2 9/14 -5/14 log2 5/14=0.94
+we will not stop the split until we will get the 0
+
+4 yes 0N 
+-4/4 log2 4/4 -0/4 log2 0/4 
+=0-0
+=0(pure split)
+3y, 2No
+
+-3/5 log2(3/5)-2/5 log2(2/5)=0.97
+
+Gini index or gini impurity
+
+-> we will check the node purly splited or not 
+
+
+1- summation of i=1 to n (p)^2
+
+https://miro.medium.com/v2/resize:fit:610/format:webp/1*Ag2dXbJt-1M9_S_bi8UBSw.png
+
+3yes and 3no
+
+1-[(3/6)^2+(3/6)^2]
+=1-[1/4+1/4]
+=0.5
+
+5yes 3 no
+
+1-[(5/8)^2+(3/8)^2]
+=0.468
+Two technique to check node is purly splited or not
+
+-> Gini impurity
+-> Entropy
+
+when out dataset is big we will go for gini index
+why?
+Because using Entropy the mathamatical complexity is more.
+
+https://xenoss.io/wp-content/uploads/2025/04/8-1-1536x1061.jpg
+https://www.ibm.com/think/topics/decision-trees
+
+
+
+Information gain= 
+
+Entropy of root node=-9/14 log2(9/14)-5/14 log2(5/14)
+=0.95
+
+Entropy of c1=-6/8 log2 6/8 -2/8 log2 2/8=0.81
+
+
+Entropy of c2 =-3/6 log2 3/6 -3/6 log2(3/6)=1
+
+
+Information gain=0.95-[8/14*0.81+6/14*1]
+=0.059
+
+from feature 1 we got 0.059 and from feature 2 we got 0.04
+0.059>0.04 so we will start spliting from feature1.
+
+
+
+
+KNN classifier
+
+
+
+f1 f2 o/p
+       1
+       0
+there is fixed number of category
+Euclidian and manhanton
+https://miro.medium.com/v2/resize:fit:640/format:webp/1*nx_7Z__Nnx05PA-jpGEcxw.jpeg
+
+Intialize the k point
+finding k nearest data point
+
+
+
+Disadvantage -> If your dataset is big dont go for knn
+if any outlier is there dont go knn
+if missing value is there then dont use knn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
