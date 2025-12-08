@@ -1,0 +1,55 @@
+Bivariate Analysis->is one of the statistiscal analysis where two variables 
+
+are observed. The goals is to understand wheaher and how two variable
+are related
+if it is a quantative analysis that examines two denoted x and y . bivariate
+analysis aims to understand to what extenent one variable predict the value of another variable
+
+total hours in week  marks
+
+Bivariate analysis is the study of relationship between two variable whether
+numerical,categorical , or one of each to understand how they are associated with
+each other.
+
+A scatter plot is a graph that shows the relationship between 
+two numerical variable using plotted point
+
+covariance is a measure that indicates how two numerical
+ variable change together
+
+corelation coefficient :
+
+
+
+calculation of values for correlation coefficient are performed
+
+
+using  a computer , although here , you can find the step
+to find the correlation coefficient by hand.
+this coefficient acknowledges you if the variable are related
+
+-1---> strong negative correlation
+-0.5->stronger
+0---> no correlation
++0.5--> stronger
++1---> strong positive corelation
+
+this indicates quite strong , positive correlation. data that looks like
+this would have very high , positive product moment coefficient
+
+Anova test -> Determines the impact of continious variable on 
+a categorical
+variable . 
+it is basically used to compare more than two groups
+
+T test-> Determine the impact of continious variable on the categorical
+variable . it is basically used to compare two groups , 
+if they are significantly
+
+chi square test-> it is used to determine whether 
+the association between two categorical variable
+is satistically significant or not.
+
+
+
+
