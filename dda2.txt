@@ -1,0 +1,21 @@
+Comparison analysis -> it involves comparing different variables,groups, or scenario to identify similarities, differences, pattern and trends.
+Eg- compare sales and profit across all the regions.
+
+contribution analysis -> contribution analysis is powerful tool that helps business and organizations to analyze the contribution of various factotors towards 
+particular outcome.
+
+eg- analyze the contribution of categories towards sales, revenue.
+
+
+pareto analysis -> pareto analysis also known as 80/20 rule, is a management tool used to identify the most significant factors or causes that contribute to particular 
+
+outcome .in pareto analysis it is assumed that 80% of the effect are caused by 20% of the factor.
+
+region vs profit
+
+
+Subcategory vs avg of sales
+
+
+Subcategory vs discount
+
