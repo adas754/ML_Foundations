@@ -5,3 +5,4 @@
 # orang tool -> https://orangedatamining.com/
 
 # Unit 1: Fundamentals of Machine Learning - > https://github.com/adas754/ML_Foundations/blob/main/unit1.docx
+# Pandas https://github.com/adas754/ML_Foundations/blob/main/Pandas%20(1).ipynb
