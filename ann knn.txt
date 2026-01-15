@@ -1,0 +1,125 @@
+KNN
+
+classification
+Regression purpose
+
+f1 f2 o/p
+... .. 1
+..  .. 0
+
+k=7
+
+1. Define k value it should be odd number
+2. we have to calculate distance with each and every point in 0's and 1's class
+3. euclidean / manhaton
+
+4. check nearest point . 
+
+
+5 points are nearest point from k and 5 points are situated in 0's class
+
+2 point are nearest from k and it is situated in 1's class
+
+
+5. k will go in 0's class.
+
+
+k=7
+
+
+5 point are nearest point from k and situated in o's class . 0's
+
+k will move into 0's class.
+
+
+
+k=7 
+
+
+
+5 , 6 , 8 , 9,10
+
+
+9, 8 
+
+2 point 1's class  from the k .
+
+5 points 0's class . 
+
+1. slow .
+
+2 . if the oulier is there so it will not handle the oulier. 
+
+3. if null values are there then also it will not work properly
+
+5 value in 0
+
+8 values' 1 
+
+
+8 . sad songs 
+
+
+pop , classical 
+
+k=3
+advanture
+
+biography
+sports
+ds  
+
+
+class=4
+
+
+2 neareast point 
+
+
+1 point 
+
+
+x1=6
+x2=7
+y1=9
+y2=10
+
+
+1. select k 
+
+2. calculate distance
+3. identify neighbour
+4. avg the taget 
+
+
+
+image video audio text
+
+
+
+ml will not perform well
+
+
+
+
+
+
+PLACE WEATHER cgpa iq SALARY
+
+IT WILL INTRODUCE NON - LINEARITY
+
+IT WILL BOUND THE VALUE IN SPECIFIC RANGE
+
+
+
+
+we will minimize the error
+
+
+we will updste the weight
+
+
+
+
+
+
