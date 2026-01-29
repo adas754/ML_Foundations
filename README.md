@@ -9,3 +9,5 @@
 # unit 2 (Linear Regression) - https://github.com/adas754/ML_Foundations/blob/main/Understanding%20Linear%20Regression.docx
 
 # https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+# Logistic Regression - https://github.com/adas754/ML_Foundations/blob/main/logistic%20Regrssion.docx
