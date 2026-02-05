@@ -11,3 +11,6 @@
 # https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 # Logistic Regression - https://github.com/adas754/ML_Foundations/blob/main/logistic%20Regrssion.docx
+
+
+# for Roc and Auc -> https://github.com/adas754/ML_Foundations/blob/main/roc%20auc%20curve.docx
