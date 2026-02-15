@@ -7,3 +7,4 @@
 # Logistic Regression - https://github.com/adas754/ML_Foundations/blob/main/logistic%20Regrssion.docx
 # for Roc and Auc -> https://github.com/adas754/ML_Foundations/blob/main/roc%20auc%20curve.docx
 # k means - https://github.com/adas754/ML_Foundations/blob/main/KMeans_Elbow_Method_Easy_Explanation.pdf
+# PCA - https://github.com/adas754/ML_Foundations/blob/main/Principal%20Component%20Analysis.docx
