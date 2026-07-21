@@ -13,3 +13,4 @@
 # unit 4 - https://github.com/adas754/ML_Foundations/blob/main/Unit%204.docx
 # unit 5 - https://github.com/adas754/ML_Foundations/blob/main/unit%205.docx
 # https://github.com/adas754/ML_Foundations/blob/main/interview_.docx - Interview
+# numpy - https://github.com/adas754/ML_Foundations/blob/main/numpy_final.ipynb
