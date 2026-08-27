@@ -14,3 +14,4 @@
 # unit 5 - https://github.com/adas754/ML_Foundations/blob/main/unit%205.docx
 # https://github.com/adas754/ML_Foundations/blob/main/interview_.docx - Interview
 # numpy - https://github.com/adas754/ML_Foundations/blob/main/numpy_final.ipynb
+# svm -> https://medium.com/@devsachin0879/support-vector-machine-a-comprehensive-guide-part2-82baa59f29a2
